@@ -1,0 +1,10 @@
+Creator: Alice Alves
+
+About: Developed using Unity (C#).
+
+How to play:
+To play click on the card you wish to move, and when selected (highlighted yellow) click on where you'd wish to move it. If the card does not become highlighted, it means it cannot be selected/played at that moment. Click on the deck to draw new card. Each player takes turns playing the game. The game shows which player's turn it is.
+
+
+Rules:
+Please read "Crapô rules - How to Play.pdf" which explains the rules of the game
